@@ -1,9 +1,9 @@
 ![Banner](banner.webp)
 
-### Hello, Devs! 👋  
+### ¡Hola, desarrolladores! 👋  
 
-My name is Damian Piazza, I am in my early 20s, and I am from Argentina. I am currently pursuing a degree in Systems Engineering at [UTN – Facultad Regional La Plata](https://www.frlp.utn.edu.ar/). I am a full-stack developer with strong foundations in systems engineering, experienced in building scalable web and mobile applications, with hands-on knowledge in DevOps, cloud infrastructure, and software architecture.
+Mi nombre es Damian Piazza, tengo poco más de 20 años y soy de Argentina. Actualmente estoy cursando la carrera de Ingeniería en Sistemas en la [UTN – Facultad Regional La Plata](https://www.frlp.utn.edu.ar/). Soy desarrollador full-stack con una sólida base en ingeniería de sistemas, con experiencia en la construcción de aplicaciones web y móviles escalables, y conocimientos prácticos en DevOps, infraestructura en la nube y arquitectura de software.
 
-### Connect with Me  
-- 💼 Connect with me by: [Linkedin](https://www.linkedin.com/in/damian-piazza)  
-- ✉️ Email me: [damipiazza11@gmail.com](mailto:damipiazza11@gmail.com)
+### Conectate conmigo  
+- 💼 Conectá conmigo en: [LinkedIn](https://www.linkedin.com/in/damian-piazza)  
+- ✉️ Enviame un correo: [damipiazza11@gmail.com](mailto:damipiazza11@gmail.com)
